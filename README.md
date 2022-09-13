@@ -12,6 +12,6 @@
 | Case Study 7 - Balanced Tree Clothing Co. | Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business. | Pending |
 | Case Study 8 - Fresh Segments | Danny created Fresh Segments, a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base. Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests. | Pending |
 
-Solved on SQL Server using several SQL techniques like conditional `WHERE` statements, data aggregation with `GROUP BY` and ordering with `ORDER BY`, `CASE WHEN` Statements, string transformations, regular expressions, datetime manipulation, common table expressions (CTE), subqueries and nested queries, complex table joins, temporary tables and  window functions.
+Solved on SQL Server using several SQL techniques like conditional `WHERE` statements, data aggregation with `GROUP BY` and ordering with `ORDER BY`, `CASE WHEN` Statements, string transformations, regular expressions, datetime manipulation, common table expressions (CTE), subqueries and nested queries, complex table joins, temporary tables, recursive CTEs and window functions.
 
 Some cases include duplicate pre-processing, exploratory data analysis and summary statistics.
