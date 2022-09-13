@@ -74,4 +74,5 @@ The final members table captures the `join_date` when a `customer_id` joined the
 
 ## Bonus Questions
 1 - Join All The Things
+
 2 - Rank All The Things
