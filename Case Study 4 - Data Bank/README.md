@@ -1,8 +1,8 @@
 # Case Study 4: Data Bank		
 
-- To read all about the case study: [Click Here!](https://8weeksqlchallenge.com/case-study-3/)
-- To access the data: [Click Here!](https://8weeksqlchallenge.com/case-study-3/)
-- For my solutions: [Click Here!](https://8weeksqlchallenge.com/case-study-3/)
+- To read all about the case study: [Click Here!](https://8weeksqlchallenge.com/case-study-4/)
+- To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/Case%20Study%204%20-%20Create%20Dataset.sql)
+- For my solutions: [Click Here!]()
 
 ## Introduction
 
