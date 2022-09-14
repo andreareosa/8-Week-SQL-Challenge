@@ -2,7 +2,7 @@
 
 - To read all about the case study: [Click Here!](https://8weeksqlchallenge.com/case-study-4/)
 - To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/Case%20Study%204%20-%20Create%20Dataset.sql)
-- For my solutions: [Click Here!]()
+- For my solutions: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/Case%20Study%204%20-%20Solutions.sql)
 
 ## Introduction
 
@@ -56,7 +56,7 @@ minimum, average and maximum values of the running balance for each customer
 Using all of the data available - how much data would have been required for each option on a monthly basis?
 
 #
-## SQL techniques used:
+### SQL techniques used:
 - Creating Tables and Temporary Tables
 - JOINS
 - CTE's
