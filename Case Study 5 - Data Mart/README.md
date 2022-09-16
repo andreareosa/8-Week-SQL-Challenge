@@ -1,8 +1,8 @@
 # Case Study 5: Data Mart		
 
 - To read all about the case study: [Click Here!](https://8weeksqlchallenge.com/case-study-5/)
-- To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/Case%20Study%204%20-%20Create%20Dataset.sql)
-- For my solutions: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/Case%20Study%204%20-%20Solutions.sql)
+- To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%205%20-%20Data%20Mart/Case%20Study%205%20-%20Create%20Dataset.sql)
+- For my solutions: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%205%20-%20Data%20Mart/Case%20Study%205%20-%20Solutions.sql)
 
 ## Introduction
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
