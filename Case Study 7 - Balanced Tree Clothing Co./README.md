@@ -1,8 +1,8 @@
 # Case Study 7: Balanced Tree Clothing Co.
 
 - To read all about the case study: [Click Here!](https://8weeksqlchallenge.com/case-study-7/)
-- To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%205%20-%20Data%20Mart/Case%20Study%205%20-%20Create%20Dataset.sql)
-- For my solutions: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%205%20-%20Data%20Mart/Case%20Study%205%20-%20Solutions.sql)\
+- To access the data: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co./Case%20Study%207%20-%20Create%20Database.sql)
+- For my solutions: [Click Here!](https://github.com/andreareosa/8-Week-SQL-Challenge/blob/main/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co./Case%20Study%207%20-%20Solutions.sql)
 
 ## Introduction
 Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
